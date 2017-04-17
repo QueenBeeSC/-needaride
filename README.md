@@ -7,7 +7,12 @@ Over the past year, communities around the world have joined the Swarm City Face
 
 Swarm City members are only limited by their own minds. We encourage users to think way outside the box, and to use the tools we provide to engage in truly decentralized peer2peer transactions. We challenge members to learn a new way of living. We are developing a Decentralized App (DApp) to aid in this discovery process, you can see the latest version [here](https://swarm.city). Rideshare is not yet available within the Swarm City Terminal, but in the coming Boardwalk release, this will be the primary function.
 
-In the meantime, Swarm City members can join their local groups to form local connections. 
+In the meantime, Swarm City members can join their local Swarm City Facebook groups to form local connections. The groups listed below have at least 25 members, there are many more groups waiting to be filled. If you do not see a group near you got to Facebook and search Swarm City ~ "your city" #NeedARide. If you still haven't found a local group join one of the International Hives and leave a post for the admins that you would like to join a #NeedARide group near you. 
+
+
+### International Swarm City Hives
+
+[United States](https://www.facebook.com/groups/SwarmCity/), [Europe](https://www.facebook.com/groups/SwarmCityHiveEurope/), [South America](https://www.facebook.com/groups/ArcadeCitySquareSouthAmerica/), [Africa](https://www.facebook.com/groups/ArcadeCitySquareAfrica/), [Australia](https://www.facebook.com/groups/ArcadeCitySquareAustralia/), [Asia](https://www.facebook.com/groups/SwarmCityHiveAsia/)
 
 
 <br>
