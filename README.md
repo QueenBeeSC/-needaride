@@ -56,14 +56,14 @@ In the meantime, Swarm City members can join their local groups to form local co
 > [FORT WAYNE #NeedARideFWA](https://www.facebook.com/groups/SwarmCityFortWayne/)
 
 
-###Iowa
+### Iowa
 
 > [CEDAR VALLEY #NeedARideCID](https://www.facebook.com/groups/SwarmCityCedarValley/)
 
 > [DES MOINES, AMES #NeedARideDSM](https://www.facebook.com/groups/SwarmCityDesMoines/)
 
 
-###Kentucky
+### Kentucky
 
 > [LOUISVILLE #NeedARideSDF](https://www.facebook.com/groups/SwarmCityLouisville/)
 
@@ -73,12 +73,12 @@ In the meantime, Swarm City members can join their local groups to form local co
 > [BATON ROUGE #NeedARideBTR](https://www.facebook.com/groups/SwarmCityBatonRouge/)
 
 
-###	Massachusetts
+### Massachusetts
 
 > [BOSTON #NeedARideBOS](https://www.facebook.com/groups/SwarmCityBoston/)
 
 
-Michigan
+### Michigan
 
 > [EATON COUNTY, MI #NeedARideFPK](https://www.facebook.com/groups/SwarmCityEatonCounty/)
 
@@ -86,58 +86,89 @@ Michigan
 
 > [LANSING / MSU #NeedARideLAN](https://www.facebook.com/groups/SwarmCityLansing/)
 
-Minnesota	16	SWARM CITY ~ MINNESOTA DRIVERS	https://www.facebook.com/groups/SwarmCityMinnesota/			
-	50	SWARM CITY ~ MINNEAPOLIS, ST PAUL	https://www.facebook.com/groups/SwarmCityMinneapolisStPaul/			
-Nevada	22	SWARM CITY ~ NEVADA DRIVERS	https://www.facebook.com/groups/UberNevada/			
-*	50	SWARM CITY ~ LAS VEGAS #NeedARideLAS	https://www.facebook.com/groups/SwarmCityLasVegas/			
-New Jersey	16	SWARM CITY ~ NEW JERSEY DRIVERS	https://www.facebook.com/groups/SwarmCityNewJersey/			
-*New Mexico	15	SWARM CITY ~ NEW MEXICO DRIVERS	https://www.facebook.com/groups/SwarmCityNewMexico/			
-New York	100	SWARM CITY ~ NEW YORK CITY #NeedARideJFK	https://www.facebook.com/groups/SwarmCityNewYorkCity/			
-North Carolina	50	SWARM CITY ~ NORTH CAROLINA DRIVERS	https://www.facebook.com/groups/SwarmCityNorthCarolina/			
-	50	SWARM CITY ~ RALEIGH, DURHAM #NeedARideRDU	https://www.facebook.com/groups/SwarmCityRaleigh/			
-*Ohio	43	SWARM CITY ~ OHIO DRIVERS	https://www.facebook.com/groups/SwarmCityOhio/			
-*	50	SWARM CITY ~ CLEVELAND #NeedARideCLE	https://www.facebook.com/groups/SwarmCityCleveland/			
-Oregon	19	SWARM CITY ~ OREGON DRIVERS	https://www.facebook.com/groups/SwarmCityOregon/			
-*	50	SWARM CITY ~ EUGENE, OR #NeedARideEUG	https://www.facebook.com/groups/SwarmCityEugene/			
-*	100	SWARM CITY ~ PORTLAND, OR #NeedARidePDX	https://www.facebook.com/groups/SwarmCityPortlandOR/			
-Pennsylvania	20	SWARM CITY ~ PENNSYLVANIA  DRIVERS	https://www.facebook.com/groups/SwarmCityPennsylvania/			
-	350	SWARM CITY ~ PHILADELPHIA #NeedARidePHL	https://www.facebook.com/groups/SwarmCityPhiladelphia/			
-*	50	SWARM CITY ~ SCRANTON, WILKES-BARRE #NeedARideAVP	https://www.facebook.com/groups/SwarmCityScranton/			
-Rhode Island 	50	SWARM CITY ~ PROVIDENCE #NeedARidePVD	https://www.facebook.com/groups/SwarmCityProvidence/			
-Texas	86	SWARM CITY ~ TEXAS DRIVERS	https://www.facebook.com/groups/SwarmCityTexas/			
-	2228	SWARM CITY ~ AUSTIN #NeedARideATX	https://www.facebook.com/groups/SwarmCityAustin/			
-	50	SWARM CITY ~ BROWNSVILLE, McALLEN, SOUTH PADRE, RGV #NeedARideBRO	https://www.facebook.com/groups/SwarmCityBrownsville/			
-	150	SWARM CITY ~ DALLAS, FT WORTH #NeedARideDFW	https://www.facebook.com/groups/SwarmCityDallasFtWorth/			
-	50	SWARM CITY ~ HOUSTON #NeedARideHOU	https://www.facebook.com/groups/SwarmCityHouston/			
-*	150	SWARM CITY ~ SAN ANTONIO #NeedARideSAT	https://www.facebook.com/groups/SwarmCitySanAntonio/			
-	250	SWARM CITY ~ WICHITA FALLS #NeedARideSPS	https://www.facebook.com/groups/SwarmCityWichitaFalls/			
-Virginia	23	SWARM CITY ~ VIRGINIA DRIVERS	https://www.facebook.com/groups/SwarmCityVirginia/			
-	50	SWARM CITY ~ HAMPTON ROADS #NeedARideORF	https://www.facebook.com/groups/SwarmCityHamptonRoads/			
-Washington State	10	SWARM CITY ~ WASHINGTON DRIVERS	https://www.facebook.com/groups/SwarmCityWashingtonState/			
-	50	SWARM CITY ~ SEATTLE, TACOMA, OLYMPIA #NeedARideSEA	https://www.facebook.com/groups/SwarmCitySeattle/			
-*	16	SWARM CITY ~ WISCONSIN DRIVERS	https://www.facebook.com/groups/SwarmCityWisconsin/			
-Wisconsin 	100	SWARM CITY ~ MADISON #NeedARideMSN	https://www.facebook.com/groups/SwarmCityMadison/			
 
-FRANCE DRIVERS	https://www.facebook.com/groups/SwarmCityFrance/
-HUNGARY DRIVERS	https://www.facebook.com/groups/SwarmCityHungary/
-SWITZERLAND DRIVERS	https://www.facebook.com/groups/SwarmCitySwitzerland/
-ALASKA DRIVERS	https://www.facebook.com/groups/SwarmCityAlaska/	
-ARIZONA DRIVERS	https://www.facebook.com/groups/SwarmCityArizona/		
-CALIFORNIA DRIVERS	https://www.facebook.com/groups/SwarmCityCalifornia/
-CONNECTICUT DRIVERS	https://www.facebook.com/groups/SwarmCityConnecticut/	
-FLORIDA DRIVERS	https://www.facebook.com/groups/SwarmCityFlorida/		
-GEORGIA DRIVERS	https://www.facebook.com/groups/SwarmCityGeorgia/
-ILLINOIS DRIVERS	https://www.facebook.com/groups/SwarmCityIllinois/
-INDIANA DRIVERS	https://www.facebook.com/groups/SwarmCityIndiana/
-IOWA DRIVERS	https://www.facebook.com/groups/SwarmCityIowa/
-KENTUCKY DRIVERS	https://www.facebook.com/groups/SwarmCityKentucky/	
-LOUISIANA DRIVERS	https://www.facebook.com/groups/SwarmCityLouisiana/		
-MAINE DRIVERS	https://www.facebook.com/groups/SwarmCityMaine/	
-MARYLAND DRIVERS	https://www.facebook.com/groups/SwarmCityMaryland/	
-MASSACHUSETTS DRIVERS	https://www.facebook.com/groups/SwarmCityMassachusetts/	
-# Europe 
+### Minnesota			
+
+> [MINNEAPOLIS, ST PAUL](https://www.facebook.com/groups/SwarmCityMinneapolisStPaul/)
+
+
+### Nevada		
+
+> [LAS VEGAS #NeedARideLAS](https://www.facebook.com/groups/SwarmCityLasVegas/)
+
+
+### New York
+
+> [NEW YORK CITY #NeedARideJFK](https://www.facebook.com/groups/SwarmCityNewYorkCity/)		
+
+
+### North Carolina		
+
+> [RALEIGH, DURHAM #NeedARideRDU](https://www.facebook.com/groups/SwarmCityRaleigh/)
+
+
+### Ohio		
+
+> [CLEVELAND #NeedARideCLE](https://www.facebook.com/groups/SwarmCityCleveland/)
+
+
+### Oregon			
+
+> [EUGENE, OR #NeedARideEUG](https://www.facebook.com/groups/SwarmCityEugene/)
+
+> [PORTLAND, OR #NeedARidePDX](https://www.facebook.com/groups/SwarmCityPortlandOR/)
+
+
+### Pennsylvania			
+
+> [PHILADELPHIA #NeedARidePHL](https://www.facebook.com/groups/SwarmCityPhiladelphia/)
+
+> [SCRANTON, WILKES-BARRE #NeedARideAVP](https://www.facebook.com/groups/SwarmCityScranton/)
+
+
+### Rhode Island
+
+> [PROVIDENCE #NeedARidePVD](https://www.facebook.com/groups/SwarmCityProvidence/)
+
+
+### Texas			
+
+> [AUSTIN #NeedARideATX](https://www.facebook.com/groups/SwarmCityAustin/)
+
+> [BROWNSVILLE, McALLEN, SOUTH PADRE, RGV #NeedARideBRO](https://www.facebook.com/groups/SwarmCityBrownsville/)
+
+> [DALLAS, FT WORTH #NeedARideDFW](https://www.facebook.com/groups/SwarmCityDallasFtWorth/)
+
+> [HOUSTON #NeedARideHOU](https://www.facebook.com/groups/SwarmCityHouston/)
+
+> [SAN ANTONIO #NeedARideSAT](https://www.facebook.com/groups/SwarmCitySanAntonio/)
+
+> [WICHITA FALLS #NeedARideSPS](https://www.facebook.com/groups/SwarmCityWichitaFalls/)
+
+
+### Virginia		
+
+> [HAMPTON ROADS #NeedARideORF](https://www.facebook.com/groups/SwarmCityHamptonRoads/)	
+
+
+### Washington State		
+	
+> [SEATTLE, TACOMA, OLYMPIA #NeedARideSEA](https://www.facebook.com/groups/SwarmCitySeattle/)
+
+		
+### Wisconsin
+
+> [MADISON #NeedARideMSN](https://www.facebook.com/groups/SwarmCityMadison/)		
+
+
+# Canada
 ---
 
+> [TORONTO #NeedARideYYZ](https://www.facebook.com/groups/SwarmCityToronto/)
+
+
+# Europe
+---
 
 > [PARIS #NeedARideCDG](https://www.facebook.com/groups/SwarmCityParis/)
 
@@ -179,12 +210,8 @@ MASSACHUSETTS DRIVERS	https://www.facebook.com/groups/SwarmCityMassachusetts/
 
 > [LAGOS #NeedARideLOS](https://www.facebook.com/groups/SwarmCityLagos/)
 
-## Swarm City [Hive](https://facebook.com/groups/SwarmCity/) US
-## Swarm City [Hive]((https://www.facebook.com/groups/SwarmCityHiveEurope/) EUROPE
-## Swarm City [Hive](https://www.facebook.com/groups/SwarmCityHiveSouthAmerica/) SOUTH AMERICA
-## Swarm City [Hive](https://www.facebook.com/groups/SwarmCityHiveAfrica/) AFRICA			
 		
-
+				
 
 
 
