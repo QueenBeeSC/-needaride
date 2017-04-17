@@ -170,9 +170,18 @@ In the meantime, Swarm City members can join their local groups to form local co
 # Europe
 ---
 
+
+### France
+
 > [PARIS #NeedARideCDG](https://www.facebook.com/groups/SwarmCityParis/)
 
+
+### Hungary
+
 > [BUDAPEST #FuvarKeneBUD](https://www.facebook.com/groups/SwarmCityBudapest/)
+
+
+### Poland
 
 > [GDANSK, GDYNIA, SOPOT #NeedARideGDN](https://www.facebook.com/groups/SwarmCityTrojmiasto/)
 
@@ -182,9 +191,12 @@ In the meantime, Swarm City members can join their local groups to form local co
 
 > [POZNAN #NeedARidePOZ](https://www.facebook.com/groups/SwarmCityPoznan/)
 
-> [ARSAW #NeedARideWAW](https://www.facebook.com/groups/SwarmCityWarsaw/)
+> [WARSAW #NeedARideWAW](https://www.facebook.com/groups/SwarmCityWarsaw/)
 
 > [WROCLAW #NeedARideWRO](https://www.facebook.com/groups/SwarmCityWroclaw/)
+
+
+### Switzerland
 
 > [GENEVA, LAUSANNE #NeedARideGVA](https://www.facebook.com/groups/SwarmCityGeneva/)
 
@@ -193,9 +205,17 @@ In the meantime, Swarm City members can join their local groups to form local co
 ---
 
 
+### Argentina
+
 > [BUENOS AIRES #NecesitoViajeAEP](https://www.facebook.com/groups/SwarmCityBuenosAires/)
 
+
+### Brazil
+
 > [CURITIBA #NeedARideCWB](https://www.facebook.com/groups/SwarmCityCuritiba/)
+
+
+### Australia
 
 > [BRISBANE #NeedARideBNE](https://www.facebook.com/groups/SwarmCityBrisbane/)
 
@@ -205,6 +225,8 @@ In the meantime, Swarm City members can join their local groups to form local co
 # Africa
 ---
 
+
+### Nigeria
 
 > [ABUJA #NeedARideABV](https://www.facebook.com/groups/SwarmCityAbuja/)
 
