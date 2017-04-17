@@ -18,156 +18,156 @@ In the meantime, Swarm City members can join their local groups to form local co
 	
 ### Arizona  
 
-[TUCSON #NeedARideTUS](https://www.facebook.com/groups/SwarmCityTucson/)
+TUCSON [#NeedARideTUS](https://www.facebook.com/groups/SwarmCityTucson/)
 
 
 ### California  
 
-[FRESNO #NeedARideFAT](https://www.facebook.com/groups/SwarmCityFresno/)
+FRESNO [#NeedARideFAT](https://www.facebook.com/groups/SwarmCityFresno/)
 
-[LOS ANGELES #NeedARideLAX](https://www.facebook.com/groups/SwarmCityLosAngeles/)
+LOS ANGELES [#NeedARideLAX](https://www.facebook.com/groups/SwarmCityLosAngeles/)
 
-[SACRAMENTO #NeedARideSAC](https://www.facebook.com/groups/SwarmCitySacramento/)
+SACRAMENTO [#NeedARideSAC](https://www.facebook.com/groups/SwarmCitySacramento/)
 
-[SAN DIEGO, CHULA VISTA #NeedARideSAN](https://www.facebook.com/groups/SwarmCitySanDiego/)
+SAN DIEGO, CHULA VISTA [#NeedARideSAN](https://www.facebook.com/groups/SwarmCitySanDiego/)
 
-[SAN FRANCISCO #NeedARideSFO](https://www.facebook.com/groups/SwarmCitySanFrancisco/)
+SAN FRANCISCO [#NeedARideSFO](https://www.facebook.com/groups/SwarmCitySanFrancisco/)
 
 
 ### Florida  
 
-[JACKSONVILLE, FL #NeedARideJAX](https://www.facebook.com/groups/ArcadeCityJacksonville/)
+JACKSONVILLE, FL [#NeedARideJAX](https://www.facebook.com/groups/ArcadeCityJacksonville/)
 
-[MIAMI #NeedARideMIA](https://www.facebook.com/groups/SwarmCityMiami/)
+MIAMI [#NeedARideMIA](https://www.facebook.com/groups/SwarmCityMiami/)
 
-[ORLANDO, KISSIMMEE, SANFORD #NeedARideMCO](https://www.facebook.com/groups/SwarmCityOrlando/)
+ORLANDO, KISSIMMEE, SANFORD [#NeedARideMCO](https://www.facebook.com/groups/SwarmCityOrlando/)
 
-[TAMPA, ST. PETERSBURG, CLEARWATER  #NeedARideTPA](https://www.facebook.com/groups/SwarmCityTampa/)
+TAMPA, ST. PETERSBURG, CLEARWATER [#NeedARideTPA](https://www.facebook.com/groups/SwarmCityTampa/)
 
 
 ### Georgia  
 
-[ATLANTA #NeedARideATL](https://www.facebook.com/groups/SwarmCityAtlanta/)
+ATLANTA [#NeedARideATL](https://www.facebook.com/groups/SwarmCityAtlanta/)
 
 
 ### Illinois
 
-[ROCKFORD #NeedARideRFD](https://www.facebook.com/groups/SwarmCityRockford/)
+ROCKFORD [#NeedARideRFD](https://www.facebook.com/groups/SwarmCityRockford/)
 
 
 ### Indiana		
-[FORT WAYNE #NeedARideFWA](https://www.facebook.com/groups/SwarmCityFortWayne/)
+FORT WAYNE [#NeedARideFWA](https://www.facebook.com/groups/SwarmCityFortWayne/)
 
 
 ### Iowa
 
-[CEDAR VALLEY #NeedARideCID](https://www.facebook.com/groups/SwarmCityCedarValley/)
+CEDAR VALLEY [#NeedARideCID](https://www.facebook.com/groups/SwarmCityCedarValley/)
 
-[DES MOINES, AMES #NeedARideDSM](https://www.facebook.com/groups/SwarmCityDesMoines/)
+DES MOINES, AMES [#NeedARideDSM](https://www.facebook.com/groups/SwarmCityDesMoines/)
 
 
 ### Kentucky
 
-[LOUISVILLE #NeedARideSDF](https://www.facebook.com/groups/SwarmCityLouisville/)
+LOUISVILLE [#NeedARideSDF](https://www.facebook.com/groups/SwarmCityLouisville/)
 
 
 ### Louisiana		
 
-[BATON ROUGE #NeedARideBTR](https://www.facebook.com/groups/SwarmCityBatonRouge/)
+BATON ROUGE [#NeedARideBTR](https://www.facebook.com/groups/SwarmCityBatonRouge/)
 
 
 ### Massachusetts
 
-[BOSTON #NeedARideBOS](https://www.facebook.com/groups/SwarmCityBoston/)
+BOSTON [#NeedARideBOS](https://www.facebook.com/groups/SwarmCityBoston/)
 
 
 ### Michigan
 
-[EATON COUNTY, MI #NeedARideFPK](https://www.facebook.com/groups/SwarmCityEatonCounty/)
+EATON COUNTY, MI [#NeedARideFPK](https://www.facebook.com/groups/SwarmCityEatonCounty/)
 
-[GRAND RAPIDS #NeedARideGRR](https://www.facebook.com/groups/SwarmCityGrandRapidsMI/)
+GRAND RAPIDS [#NeedARideGRR](https://www.facebook.com/groups/SwarmCityGrandRapidsMI/)
 
-[LANSING / MSU #NeedARideLAN](https://www.facebook.com/groups/SwarmCityLansing/)
+LANSING / MSU [#NeedARideLAN](https://www.facebook.com/groups/SwarmCityLansing/)
 
 
 ### Minnesota			
 
-[MINNEAPOLIS, ST PAUL](https://www.facebook.com/groups/SwarmCityMinneapolisStPaul/)
+MINNEAPOLIS, ST PAUL [#NeedARideMSP](https://www.facebook.com/groups/SwarmCityMinneapolisStPaul/)
 
 
 ### Nevada		
 
-[LAS VEGAS #NeedARideLAS](https://www.facebook.com/groups/SwarmCityLasVegas/)
+LAS VEGAS [#NeedARideLAS](https://www.facebook.com/groups/SwarmCityLasVegas/)
 
 
 ### New York
 
-[NEW YORK CITY #NeedARideJFK](https://www.facebook.com/groups/SwarmCityNewYorkCity/)		
+NEW YORK CITY [#NeedARideJFK](https://www.facebook.com/groups/SwarmCityNewYorkCity/)		
 
 
 ### North Carolina		
 
-[RALEIGH, DURHAM #NeedARideRDU](https://www.facebook.com/groups/SwarmCityRaleigh/)
+RALEIGH, DURHAM [#NeedARideRDU](https://www.facebook.com/groups/SwarmCityRaleigh/)
 
 
 ### Ohio		
 
-[CLEVELAND #NeedARideCLE](https://www.facebook.com/groups/SwarmCityCleveland/)
+CLEVELAND [#NeedARideCLE](https://www.facebook.com/groups/SwarmCityCleveland/)
 
 
 ### Oregon			
 
-[EUGENE, OR #NeedARideEUG](https://www.facebook.com/groups/SwarmCityEugene/)
+EUGENE [#NeedARideEUG](https://www.facebook.com/groups/SwarmCityEugene/)
 
-[PORTLAND, OR #NeedARidePDX](https://www.facebook.com/groups/SwarmCityPortlandOR/)
+PORTLAND [#NeedARidePDX](https://www.facebook.com/groups/SwarmCityPortlandOR/)
 
 
 ### Pennsylvania			
 
-[PHILADELPHIA #NeedARidePHL](https://www.facebook.com/groups/SwarmCityPhiladelphia/)
+PHILADELPHIA [#NeedARidePHL](https://www.facebook.com/groups/SwarmCityPhiladelphia/)
 
-[SCRANTON, WILKES-BARRE #NeedARideAVP](https://www.facebook.com/groups/SwarmCityScranton/)
+SCRANTON, WILKES-BARRE [#NeedARideAVP](https://www.facebook.com/groups/SwarmCityScranton/)
 
 
 ### Rhode Island
 
-[PROVIDENCE #NeedARidePVD](https://www.facebook.com/groups/SwarmCityProvidence/)
+PROVIDENCE [#NeedARidePVD](https://www.facebook.com/groups/SwarmCityProvidence/)
 
 
 ### Texas			
 
-[AUSTIN #NeedARideATX](https://www.facebook.com/groups/SwarmCityAustin/)
+AUSTIN [#NeedARideATX](https://www.facebook.com/groups/SwarmCityAustin/)
 
-[BROWNSVILLE, McALLEN, SOUTH PADRE, RGV #NeedARideBRO](https://www.facebook.com/groups/SwarmCityBrownsville/)
+BROWNSVILLE, McALLEN, SOUTH PADRE, RGV [#NeedARideBRO](https://www.facebook.com/groups/SwarmCityBrownsville/)
 
-[DALLAS, FT WORTH #NeedARideDFW](https://www.facebook.com/groups/SwarmCityDallasFtWorth/)
+DALLAS, FT WORTH [#NeedARideDFW](https://www.facebook.com/groups/SwarmCityDallasFtWorth/)
 
-[HOUSTON #NeedARideHOU](https://www.facebook.com/groups/SwarmCityHouston/)
+HOUSTON [#NeedARideHOU](https://www.facebook.com/groups/SwarmCityHouston/)
 
-[SAN ANTONIO #NeedARideSAT](https://www.facebook.com/groups/SwarmCitySanAntonio/)
+SAN ANTONIO [#NeedARideSAT](https://www.facebook.com/groups/SwarmCitySanAntonio/)
 
-[WICHITA FALLS #NeedARideSPS](https://www.facebook.com/groups/SwarmCityWichitaFalls/)
+WICHITA FALLS [#NeedARideSPS](https://www.facebook.com/groups/SwarmCityWichitaFalls/)
 
 
 ### Virginia		
 
-[HAMPTON ROADS #NeedARideORF](https://www.facebook.com/groups/SwarmCityHamptonRoads/)	
+HAMPTON ROADS [#NeedARideORF](https://www.facebook.com/groups/SwarmCityHamptonRoads/)	
 
 
 ### Washington State		
 	
-[SEATTLE, TACOMA, OLYMPIA #NeedARideSEA](https://www.facebook.com/groups/SwarmCitySeattle/)
+SEATTLE, TACOMA, OLYMPIA [#NeedARideSEA](https://www.facebook.com/groups/SwarmCitySeattle/)
 
 		
 ### Wisconsin
 
-[MADISON #NeedARideMSN](https://www.facebook.com/groups/SwarmCityMadison/)		
+MADISON [#NeedARideMSN](https://www.facebook.com/groups/SwarmCityMadison/)		
 
 
 # Canada
 ---
 
-[TORONTO #NeedARideYYZ](https://www.facebook.com/groups/SwarmCityToronto/)
+TORONTO [#NeedARideYYZ](https://www.facebook.com/groups/SwarmCityToronto/)
 
 
 # Europe
@@ -176,32 +176,32 @@ In the meantime, Swarm City members can join their local groups to form local co
 
 ### France
 
-[PARIS #NeedARideCDG](https://www.facebook.com/groups/SwarmCityParis/)
+PARIS [#NeedARideCDG](https://www.facebook.com/groups/SwarmCityParis/)
 
 
 ### Hungary
 
-[BUDAPEST #FuvarKeneBUD](https://www.facebook.com/groups/SwarmCityBudapest/)
+BUDAPEST [#FuvarKeneBUD](https://www.facebook.com/groups/SwarmCityBudapest/)
 
 
 ### Poland
 
-[GDANSK, GDYNIA, SOPOT #NeedARideGDN](https://www.facebook.com/groups/SwarmCityTrojmiasto/)
+GDANSK, GDYNIA, SOPOT [#NeedARideGDN](https://www.facebook.com/groups/SwarmCityTrojmiasto/)
 
-[KRAKOW #NeedARideKRK](https://www.facebook.com/groups/SwarmCityKrakow/)
+KRAKOW [#NeedARideKRK](https://www.facebook.com/groups/SwarmCityKrakow/)
 
-[LODZ #NeedARideLCJ](https://www.facebook.com/groups/SwarmCityLodz/)
+LODZ [#NeedARideLCJ](https://www.facebook.com/groups/SwarmCityLodz/)
 
-[POZNAN #NeedARidePOZ](https://www.facebook.com/groups/SwarmCityPoznan/)
+POZNAN [#NeedARidePOZ](https://www.facebook.com/groups/SwarmCityPoznan/)
 
-[WARSAW #NeedARideWAW](https://www.facebook.com/groups/SwarmCityWarsaw/)
+WARSAW [#NeedARideWAW](https://www.facebook.com/groups/SwarmCityWarsaw/)
 
-[WROCLAW #NeedARideWRO](https://www.facebook.com/groups/SwarmCityWroclaw/)
+WROCLAW [#NeedARideWRO](https://www.facebook.com/groups/SwarmCityWroclaw/)
 
 
 ### Switzerland
 
-[GENEVA, LAUSANNE #NeedARideGVA](https://www.facebook.com/groups/SwarmCityGeneva/)
+GENEVA, LAUSANNE [#NeedARideGVA](https://www.facebook.com/groups/SwarmCityGeneva/)
 
 
 # South America
@@ -210,19 +210,19 @@ In the meantime, Swarm City members can join their local groups to form local co
 
 ### Argentina
 
-[BUENOS AIRES #NecesitoViajeAEP](https://www.facebook.com/groups/SwarmCityBuenosAires/)
+BUENOS AIRES [#NecesitoViajeAEP](https://www.facebook.com/groups/SwarmCityBuenosAires/)
 
 
 ### Brazil
 
-[CURITIBA #NeedARideCWB](https://www.facebook.com/groups/SwarmCityCuritiba/)
+CURITIBA [#NeedARideCWB](https://www.facebook.com/groups/SwarmCityCuritiba/)
 
 
 ### Australia
 
-[BRISBANE #NeedARideBNE](https://www.facebook.com/groups/SwarmCityBrisbane/)
+BRISBANE [#NeedARideBNE](https://www.facebook.com/groups/SwarmCityBrisbane/)
 
-[CAIRNS, TOWNSVILLE, MACKAY #NeedARideCNS](https://www.facebook.com/groups/SwarmCityCairns/)
+CAIRNS, TOWNSVILLE, MACKAY [#NeedARideCNS](https://www.facebook.com/groups/SwarmCityCairns/)
 
 
 # Africa
